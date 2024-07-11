@@ -1,0 +1,12 @@
+alpha-zero-general
+AlphaZero
+othello/temp
+othello/main.py
+othello/OthelloNNet.py
+othello/NNet.py
+othello/Coach.py
+othello/utils.
+othello/NeuralNet.py
+othello/MCTS.py
+othello/Arena.py
+othello/OthelloPlayers.py
